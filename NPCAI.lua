@@ -880,3 +880,5 @@ end
 -- Report initialization status in Studio Output for quick verification.
 print("[Loyd] HD APPLICATION: NPC AI System initialized.")
 print("[Loyd] HD APPLICATION: Active NPC controllers:", #activeControllers)
+
+-- you can check my X profile as well: https://x.com/MLK__Games
